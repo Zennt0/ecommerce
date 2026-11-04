@@ -4,14 +4,6 @@
 
 ---
 
-## 📸 Preview
-
-<p align="center">
-  <img src="frontend/public/screenshot-for-readme.png" alt="EverGreen Store Preview" width="100%" />
-</p>
-
----
-
 ## ✨ Key Features
 
 ### 🛍️ Customer Experience
@@ -193,9 +185,4 @@ npm run dev
 npm run build
 npm start
 ```
-
----
-
-## 📄 License
-This project is licensed under the [ISC License](LICENSE).
 
